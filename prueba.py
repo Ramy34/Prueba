@@ -1,6 +1,6 @@
-print("Hola Mundo")
-n = 0
-z = 0
+print("Hola :3")
+n = 4
+z = 8
 while(n != 10):
     print(str(n) + "\n")
     n = n + 1
